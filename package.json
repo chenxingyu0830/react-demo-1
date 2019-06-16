@@ -7,6 +7,8 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "homepage" : "https://smallyu.top/react-demo-1/build",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
